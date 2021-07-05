@@ -4,11 +4,10 @@ import './index.scss';
 import Routes from './Routes';
 import Hello from './Hello';
 import VerifyAnimation from './animation/Verify';
+import App from './App';
 
 ReactDOM.render(
-  <React.StrictMode>
-    <Routes />
-  </React.StrictMode>,
+    <App />,
   document.getElementById('root')
 );
 

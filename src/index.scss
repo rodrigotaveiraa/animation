@@ -5,16 +5,12 @@
 } 
 
 body {
-  font-family: Roboto, sans-serif;
+  font-family: Inter, sans-serif;
   background: #f2f3f5;
 }
 
-h1 {
-  color: #000;
-}
-
-@media(max-width: 1080px){
+@media (max-width: 960px) {
   html {
-      font-size: 93.75%;
+    font-size: 93.75%
   }
 }

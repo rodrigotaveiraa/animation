@@ -15,4 +15,6 @@ const Hello = () => {
     )
 }
 
+// background: linear-gradient(90deg,#7500DB,#9844E1);
+
 export default Hello;
